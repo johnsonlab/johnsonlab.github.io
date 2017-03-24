@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua Johnson, Ph.D."
+  name             : "Joshua Johnson"
   avatar           : "josh.png"
   bio              : "Research laboratory at the University of Colorado-Denver, Basic/translational studies of the mammalian ovary"
   location         : "Aurora, CO"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=8sQhQl0AAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=8sQhQl0AAAAJ&hl=en
   email            : 
   uri              : 
   bitbucket        :
