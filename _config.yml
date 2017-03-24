@@ -13,7 +13,7 @@ name                     : &name "Joshua Johnson"
 description              : &description "Ovarian Research Laboratory"
 url                      : https://johnsonlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "johnsonlab/johnsonlab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Joshua Johnson, Ph.D."
   avatar           : "josh.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research laboratory at the University of Colorado-Denver, Basic/translational studies of the mammalian ovary"
   location         : "Aurora, CO"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=8sQhQl0AAAAJ&hl=en"
