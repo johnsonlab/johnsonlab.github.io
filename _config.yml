@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Johnson, Ph.D. / @johnsonlab"
+title                    : "Joshua Johnson, Ph.D. / Johnsonlab"
 title_separator          : "-"
 name                     : &name "Joshua Johnson"
 description              : &description "Ovarian Research Laboratory"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "johnsonlab"
   google_plus      :
   keybase          :
   instagram        : 
