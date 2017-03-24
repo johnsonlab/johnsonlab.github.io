@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+##[UC-Denver Website](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/obgyn/Divisions/reprosciences/faculty/Pages/Johnson-Josh,-PhD.aspx)
+
+Dr. Johnson's research program focuses on the control of oocyte number inside the ovary, primarily in mammals, but also in the fruit fly model organism. We are currently focused on mechanisms that support oocyte quality--the ability to give rise to a healthy offspring--and those that lead to oocyte loss, due to 'normal' aging and in the context of human premature ovarian failure (POF). To maximize his clinical/ translation acumen, Dr. Johnson was trained and worked part-time as an embryologist in the Yale IVF Center. Now, our primary mission is to better understand the function of the ovary so we can first identify women whose ovaries are at risk of failing or who will have trouble conceiving, and one day intervene to protect fertility and organ function.
+
+##INSTRUCTIONS BELOW
 
 A data-driven personal website
 ======
