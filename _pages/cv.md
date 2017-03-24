@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Natural Sciences, University of Wisconsin-Madison, 2005
+* Ph.D in Biology, Arizona State University, 2002
 
 Work experience
 ======
@@ -56,4 +55,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
