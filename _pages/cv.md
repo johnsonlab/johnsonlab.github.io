@@ -11,29 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Natural Sciences, University of Wisconsin-Madison, 2005
+* B.S. in Natural Sciences, University of Wisconsin-Madison, 1995
 * Ph.D in Biology, Arizona State University, 2002
+* Postdoctoral Fellowship, Massachusetts General Hospital/Harvard Medical School, Vincent Center for Reproductive Biology, 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2005 - 2013, Assistant Professor (Tenure Track)
+  * Yale School of Medicine, Department of OB/GYN & Reproductive Sciences
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2013 - 2016, Research Scientist
+  * Yale School of Medicine, Department of OB/GYN & Reproductive Sciences
+ 
+* 2016 - Present, Assistant Professor (Tenure Track)
+  * University of Colorado-Denver, Department of Obstetrics and Gynecology
+  * Division of Reproductive Endocrinology and Division of Reproductive Sciences
+
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reproductive biology and genetics
+* Mammalian and insect ovarian physiology
+  * ovarian follicle development
+  * stem cells
+* Assisted reproductive technologies
+* Clinical fertility preservation
 
 Publications
 ======
