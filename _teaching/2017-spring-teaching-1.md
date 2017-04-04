@@ -8,6 +8,8 @@ date: 2017-01-26
 location: "Aurora, CO"
 ---
 
+Lecturer and small group preceptor for medical students.
+
 Provided Lecture **"The Menstrual Cycle,"** Thursday January 12th, 2017: 8:00-10:00am
 
 Preceptor for **"Cases in Reproductive Health"** small group case discussion section, Thursday January 26th, 2017: 8:00-10:00am 
