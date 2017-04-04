@@ -3,7 +3,7 @@ title: "UC-Denver School of Medicine Life Cycle Block"
 collection: teaching
 type: "Medical school course"
 permalink: /teaching/2017-spring-teaching-1
-venue: "University of Colorado-Denver, Department"
+venue: "University of Colorado-Denver"
 date: 2017-01-26
 location: "Aurora, CO"
 ---
