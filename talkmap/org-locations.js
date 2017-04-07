@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Havana, Cuba",
-    23.1379911,
-    -82.3658561
+    "Milan, Italy",
+    45.4667971,
+    9.1904984
   ],
   [
-    "Pullman, WA",
-    46.7304268,
-    -117.1738949
+    "Edinburgh, Scotland, U.K.",
+    55.9495628,
+    -3.1914971
   ],
   [
     "Aurora, CO",
@@ -20,13 +20,13 @@ var addressPoints = [
     -71.0595677
   ],
   [
-    "Edinburgh, Scotland, U.K.",
-    55.9495628,
-    -3.1914971
+    "Pullman, WA",
+    46.7304268,
+    -117.1738949
   ],
   [
-    "Milan, Italy",
-    45.4667971,
-    9.1904984
+    "Havana, Cuba",
+    23.1379911,
+    -82.3658561
   ]
 ];
