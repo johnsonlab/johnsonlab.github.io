@@ -56,3 +56,10 @@ Teaching
   
 Service and leadership
 ======
+
+* **Peer Reviewer** for NIH/NICHD Study Sections, 2011-present; The Qatar National Research Fund; 2011, 2012 funding cycles; Norwegian Academy of Science and Letters, 2013, 2014; Netherlands Organisation for Health Research and Development, Innovational Research Incentives Scheme (Veni Mechanism), 2014-2016 funding cycle; Kansas-IDeA Network of Biomedical Research Excellence (K-INBRE) Bridging program, 2014-2015 reviewer. Physicians' Services Incorporated (PSI) Foundation, 2015 Resident Research Program.
+  
+* **Medical Student Thesis Evaluation Committee Chairman**, Department of Obstetrics, Gynecology, & Reproductive Sciences, Yale School of Medicine, August 2009 - August 2016
+  
+* **Manuscript Reviewer** for *Cell Cycle, Cell Death and Differentiation, Cellular and Molecular Life Sciences, Fertility and Sterility, Genesis, Human Reproduction, Journal of Biomedicine and Biotechnology, Molecular and Cellular Endocrinology, Molecular Human Reproduction, Nature Protocols, Proceedings of the National Academy of Sciences, Reproduction, Cancer Cell International, Reproductive Sciences, Science, Science Translational Medicine, Scientific Reports.*
+  
