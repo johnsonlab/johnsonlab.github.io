@@ -180,7 +180,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  lab_members:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
