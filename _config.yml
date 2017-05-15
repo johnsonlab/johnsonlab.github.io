@@ -229,6 +229,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _lab_members
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
