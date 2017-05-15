@@ -232,7 +232,7 @@ defaults:
   # _lab_members
   - scope:
       path: ""
-      type: portfolio
+      type: lab_members
     values:
       layout: single
       author_profile: true
