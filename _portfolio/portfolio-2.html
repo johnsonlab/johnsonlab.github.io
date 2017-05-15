@@ -1,6 +1,6 @@
 ---
 title: "1971 Porsche"
-excerpt: "Test portfolio item 2 entry <br/><img src='/1970-porsche-917-1.png'>"
+excerpt: "Test portfolio item 2 entry <br/><img src='/images/1970-porsche-917-1.png'>"
 collection: portfolio
 ---
 
