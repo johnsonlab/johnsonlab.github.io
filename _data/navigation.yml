@@ -7,8 +7,11 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/   
+     
+  - title: "Lab Members"
+    url: /lab_members/
+
   - title: "Portfolio"
     url: /portfolio/
         
