@@ -1,6 +1,7 @@
 ---
 title: "Elis Bales"
-excerpt: "Elise Bales, B.S. <br/><img src='/images/1970-porsche-9170-1.png'>"
+excerpt: "Elise Bales, B.S. <br/><img src='/images/elise_bales_headshot.jpg'
+style='width:500px;height:754px;'>"
 collection: lab_members
 ---
 
