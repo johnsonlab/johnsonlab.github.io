@@ -1,7 +1,8 @@
 ---
 title: "Peter Ka Sam"
-excerpt: "Cari Nicholas, Ph.D. <br/><img src='/images/1970-porsche-9170-1.png'>"
+excerpt: "Peter Ka Sam <br/><img src='/images/Peter_Ka_Sam_Lab_Photo.png'
+style='width:500px;height:628px;'>"
 collection: lab_members
 ---
 
-Undergraduate Summer Student Peter Ka Sam
+AMC-UC Boulder Summer Internship Student Peter Ka Sam.
