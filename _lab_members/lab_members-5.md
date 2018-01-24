@@ -5,4 +5,4 @@ style='width:500px;height:628px;'>"
 collection: lab_members
 ---
 
-AMC-UC Boulder Summer Internship Student Peter Ka Sam.
+AMC-UC Boulder Undergraduate Student Peter Ka Sam.
