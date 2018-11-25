@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
+<<<<<<< HEAD
 * B.S. in Natural Sciences, University of Wisconsin-Madison, 1995
 * Ph.D in Biology, Arizona State University, 2002
 * Postdoctoral Fellowship, Massachusetts General Hospital/Harvard Medical School, Vincent Center for Reproductive Biology, 2005
+=======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+>>>>>>> academicpages/master
 
 Work experience
 ======
