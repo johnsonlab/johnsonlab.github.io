@@ -80,6 +80,7 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Joshua Johnson"
   avatar           : "Josh_ski2017.jpg"
   bio              : "Research laboratory at the University of Colorado-Denver | DRS | REI | Basic/translational studies of the mammalian ovary"
@@ -87,6 +88,17 @@ author:
   employer         : "University of Colorado-Denver"
   googlescholar    : "https://goo.gl/g1eIaJ"
   email            : "joshua.2.johnson@ucdenver.edu"
+=======
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+>>>>>>> academicpages/master
   uri              :
   bitbucket        :
   codepen          :
@@ -98,6 +110,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-6016-8089"
@@ -126,22 +139,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -266,7 +280,7 @@ timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
