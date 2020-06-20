@@ -80,7 +80,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Joshua Johnson"
   avatar           : "Josh_ski2017.jpg"
   bio              : "Research laboratory at the University of Colorado-Denver | DRS | REI | Basic/translational studies of the mammalian ovary"
@@ -88,7 +87,6 @@ author:
   employer         : "University of Colorado-Denver"
   googlescholar    : "https://goo.gl/g1eIaJ"
   email            : "joshua.2.johnson@ucdenver.edu"
-=======
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
@@ -98,7 +96,6 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
->>>>>>> academicpages/master
   uri              :
   bitbucket        :
   codepen          :
