@@ -84,17 +84,11 @@ author:
   avatar           : "Josh_ski2017.jpg"
   bio              : "Research laboratory at the University of Colorado-Denver | DRS | REI | Basic/translational studies of the mammalian ovary"
   location         : "Aurora, CO"
-  employer         : "University of Colorado-Denver"
+  employer         : "University of Colorado-Anschutz Medical Center"
   googlescholar    : "https://goo.gl/g1eIaJ"
-  email            : "joshua.2.johnson@ucdenver.edu"
+  email            : "joshua.2.johnson@cuanschutz.edu"
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -122,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
