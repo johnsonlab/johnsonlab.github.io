@@ -1,5 +1,7 @@
 ---
 title: "Evelyn Llerena Cari"
+excerpt: "Evelyn Llerena Cari <br/><img src='/images/elc2020.jpg'
+style='width:500px;height:628px;'>"
 collection: lab_members
 ---
 
