@@ -5,4 +5,4 @@ style='width:500px;height:628px;'>"
 collection: lab_members
 ---
 
-Integrated Physiology Graduate Program Rotation Student Evelyn Llerena Cari.
+Integrated Physiology Graduate Program Student Evelyn Llerena Cari.
