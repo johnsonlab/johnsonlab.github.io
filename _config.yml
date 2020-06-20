@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joshua Johnson"
   avatar           : "Josh_ski2017.jpg"
-  bio              : "Research laboratory at the University of Colorado-Denver | DRS | REI | Basic/translational studies of the mammalian ovary"
+  bio              : "Research laboratory at the CU-Anschutz School of Medicine | DRS | REI | Basic/translational studies of the mammalian ovary"
   location         : "Aurora, CO"
   employer         : "University of Colorado-AMC"
   googlescholar    : "https://goo.gl/g1eIaJ"
   email            : "joshua.2.johnson@cuanschutz.edu"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
