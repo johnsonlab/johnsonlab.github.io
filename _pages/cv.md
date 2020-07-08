@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Natural Sciences, University of Wisconsin-Madison, 1995
 * Ph.D in Biology, Arizona State University, 2002
-* Postdoctoral Fellowship, Massachusetts General Hospital/Harvard Medical School, Vincent Center for Reproductive Biology, 2005
+* Postdoctoral Fellowship, Massachusetts General Hospital/Harvard Medical School, Vincent Center for Reproductive Biology, 2002 - 2005
 
 Work experience
 ======
