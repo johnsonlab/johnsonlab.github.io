@@ -1,5 +1,5 @@
 ---
-title: "EDITORIAL: Deeper dive into tissue-level events that incite and promote pelvic organ prolapse."
+title: "COLLEAGUE EDITORIAL: Deeper dive into tissue-level events that incite and promote pelvic organ prolapse."
 collection: publications
 permalink: /publications/2021-01-11-AJOGeditorial
 venue: "American Journal of Obstetrics & Gynecology"
