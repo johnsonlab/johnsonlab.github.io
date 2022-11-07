@@ -16,7 +16,7 @@ Approximately 1 in 250 women will experience POI prior to age 35, and 1 in 100 p
 
 ### Blog Post 25: How random is ovarian aging?
 
-November, 2021: Our work investigating ovarian aging using mathematical modeling continues, and we wrote up a [blog post](https://johnsonlab.github.io/year-archive/) for a more general audience [here](https://johnsonlab.github.io/blog-post-25/). The post puts our recent work into context with several excellent "historical" publications, and argues that ovarian aging may arise as an ["emergent behavior"](https://en.wikipedia.org/wiki/Emergence) that results from the action of individual primordial ovarian follicles. Is the mammalian ovary ["a non-trivial, emergent, self-organizing system, with limited adaptive capacity?"](https://doi.org/10.7717/peerj.13941)
+November, 2021: Our work investigating ovarian aging using mathematical modeling continues, and we wrote up a [blog post](https://johnsonlab.github.io/year-archive/) for a more general audience [here](https://johnsonlab.github.io/blog-post-25/). The post puts our recent work into context with several excellent "historical" publications, and argues that ovarian aging may arise as an ["emergent behavior"](https://en.wikipedia.org/wiki/Emergence) that results from the action of individual primordial ovarian follicles. Is the mammalian ovary ["a non-trivial, emergent, self-organizing system, with limited adaptive capacity?"](https://peerj.com/articles/13941/?td=bl)
 
 <!--060122-->
 ### Lab Theme Highlight, Summer 2022: Mathematical Modeling of Ovarian Aging
