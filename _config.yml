@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Johnson"
-  avatar           : "Josh_ski2017.jpg"
+  avatar           : CUAMC_johnsonlab.png #"Josh_ski2017.jpg"
   bio              : "Research laboratory at the CU-Anschutz School of Medicine | DRS | REI | Basic/translational studies of the mammalian ovary"
   location         : "Aurora, CO"
   employer         : "University of Colorado-AMC"
@@ -104,6 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-6016-8089"
+  mastodon         : "@johnsonlab@mstdn.science"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
