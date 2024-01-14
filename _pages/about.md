@@ -18,7 +18,7 @@ Approximately 1 in 250 women will experience POI prior to age 35, and 1 in 100 p
 <!--060122-->
 ### New Publication(s), January 2024!
 
-We have an ongoing collaboration with [Dr. Sean Lawley](https://www.math.utah.edu/~lawley/) of the Department of Mathematics at the University of Utah and [Dr. Jay Emerson](http://www.stat.yale.edu/~jay/) of the Yale University Department of Statistics and Data Science. In exciting news, [a brand-new paper is now available in *Science Advances*](https://www.science.org/doi/10.1126/sciadv.adj4490) where we show that identical modeling conditions of human primordial follicle behavior give rise to both the menopausal transition distribution (menstrual cycles become irregular by 7 days) and the age at natural menopause distribution(menstrual cycles cease) in women. 
+We have an ongoing collaboration with [Dr. Sean Lawley](https://www.math.utah.edu/~lawley/) of the Department of Mathematics at the University of Utah and [Dr. Jay Emerson](http://www.stat.yale.edu/~jay/) of the Yale University Department of Statistics and Data Science. In exciting news, [a brand-new paper is now available in *Science Advances*](https://www.science.org/doi/10.1126/sciadv.adj4490) where we show that identical modeling conditions of human primordial follicle behavior give rise to both the menopausal transition distribution (menstrual cycles become irregular by 7 days) and the age at natural menopause distribution(menstrual cycles cease) in women.
 
 Another paper where we apply the model to a clinical/translational scenario is under embargo until January 19th...watch this space!
 
@@ -40,7 +40,7 @@ For some general background, here's a [blog post](https://johnsonlab.github.io/y
 
 ## Female Pelvic Floor
 
-n a collaborative project with Dr. Kathleen Connell of the CU-AMC Division of Urogynecology and Pelvic Floor Surgery, we are also investigating mechanisms that lead to the degeneration of pelvic floor support structures. We are focused on the cell and tissue biology of pelvic floor ligaments, as well as their biomechanical properties. Our goals here are to uncover preventative strategies to lessen the incidence of pelvic floor organ prolapse, and also reduce the recurrence of the condition. [Dr. David Orlicky of the CU-Anschutz Department of Pathology led recent collaborative studies where we evaluated steroid hormone receptor expression in uterosacral ligament specimens.](https://link.springer.com/article/10.1007/s43032-023-01283-z)
+In a collaborative project with Dr. Kathleen Connell of the CU-AMC Division of Urogynecology and Pelvic Floor Surgery, we are also investigating mechanisms that lead to the degeneration of pelvic floor support structures. We are focused on the cell and tissue biology of pelvic floor ligaments, as well as their biomechanical properties. Our goals here are to uncover preventative strategies to lessen the incidence of pelvic floor organ prolapse, and also reduce the recurrence of the condition. [Dr. David Orlicky of the CU-Anschutz Department of Pathology led recent collaborative studies where we evaluated steroid hormone receptor expression in uterosacral ligament specimens.](https://link.springer.com/article/10.1007/s43032-023-01283-z)
 
 <!--### Black History Month 2023, Interview with *SSR Reflects*
 
