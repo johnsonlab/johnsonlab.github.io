@@ -1,6 +1,6 @@
 ---
 title: "Fall 2024 Lab Picture"
-excerpt: "Johnson, Medina, Smith <br/><img src='images/CUob-gyn_rr2024-107.png'
+excerpt: "Johnson, Medina, Smith <br/><img src='images/Fall_2024_Johnson_Lab.jpg'
 style='width:500px;height:628px;'>"
 collection: lab_members
 ---
