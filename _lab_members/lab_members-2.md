@@ -1,6 +1,6 @@
 ---
 title: "Fall 2024 Lab Picture"
-excerpt: "Johnson, Medina, Smith <br/><img src='/images/Fall_2024_Johnson_Lab.jpg' 
+excerpt: "Annika Smith, Josh Johnson, Kayla Medina <br/><img src='/images/Fall_2024_Johnson_Lab.jpg' 
 style='width:750px;height:500px;'>"
 collection: lab_members
 ---
