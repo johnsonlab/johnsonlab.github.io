@@ -16,11 +16,16 @@ Approximately 1 in 250 women will experience POI prior to age 35, and 1 in 100 p
 
 
 <!--060122-->
-### New Publication(s), January 2024!
+### Recent Publication(s) through Spring 2025!
 
-We have an ongoing collaboration with [Dr. Sean Lawley](https://www.math.utah.edu/~lawley/) of the Department of Mathematics at the University of Utah and [Dr. Jay Emerson](http://www.stat.yale.edu/~jay/) of the Yale University Department of Statistics and Data Science. In exciting news, [a brand-new paper is now available in *Science Advances*](https://www.science.org/doi/10.1126/sciadv.adj4490) where we show that identical modeling conditions of human primordial follicle behavior give rise to both the menopausal transition distribution (menstrual cycles become irregular by 7 days) and the age at natural menopause distribution(menstrual cycles cease) in women.
+We have an ongoing collaboration with [Dr. Sean Lawley](https://www.math.utah.edu/~lawley/) of the Department of Mathematics at the University of Utah and [Dr. Jay Emerson](http://www.stat.yale.edu/~jay/) of the Yale University Department of Statistics and Data Science. We worked with Dr. Kutluk Oktay to determine if our modeling approach could be applied to the question of how cryopreserving human ovarian cortex tissue might be used to extend the duration of ovarian function. Dr. Oktay's vast experience with this procedure in the context of fertility preservation helped guide the project to this paper, [Modeling delay of age of natural menopause with planned tissue cryopreservation and autologous transplantation.](https://doi.org/10.1016/j.ajog.2023.12.037), published in the *American Journal of Obstetrics & Gynecology*. 
 
-Another paper where we apply the model to a clinical/translational scenario is under embargo until January 19th...watch this space!
+We have since expanded our consideration of different strategies under development that might extend ovarian function, and categorized approaches into those that either "slow" the loss of ovarian follicles, or, "boost" their numbers. This work was published this spring in [*Human Reproduction Update*](https://doi.org/10.1093/humupd/dmaf009). 
+
+We're also excited to get this paper out: [Mapping stochasticity in aging processes: from worms to humans.](https://doi.org/10.1007/s11357-025-01673-y). This work was led by student Adam Hruby, working with Drs. Ryo Sanabria, Max Thorwald, and Caleb Finch at the USC Leonard Davis School for Gerontology. Stochastic ("random") processes are supported as being involved in how ovarian follicles behave (previous blog post: [Randomness in ovarian aging blog post](https://johnsonlab.github.io/blog-post-25/)), and it has been wonderful to interrogate the broader "stochastome" with these USC researchers.
+
+### Older publications: through January 2024:
+Our paper with Drs. Nanette Santoro and Mary Sammel [in *Science Advances*](https://www.science.org/doi/10.1126/sciadv.adj4490) shows that identical modeling conditions of human primordial follicle behavior give rise to both the menopausal transition distribution (menstrual cycles become irregular by 7 days) and the age at natural menopause distribution(menstrual cycles cease) in women.
 
 Earlier recent publications in this area are: 1. ["Recapitulating Human Ovarian Aging Using Random Walks" in PeerJ](https://doi.org/10.7717/peerj.13941), 2.  ["Why is there an 'oversupply' of human ovarian follicles in newborn girls?" in Biology of Reproduction](https://academic.oup.com/biolreprod/advance-article-abstract/doi/10.1093/biolre/ioad022/7043190) and 3. ["Slowest first passage times, redundancy, and menopause timing" in the Journal of Mathematical Biology](https://doi.org/10.1007/s00285-023-01921-9). The last of these is very mathematics-intensive, but the paper has some information for the interested reproductive biology audience!
 
